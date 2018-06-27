@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Web_API_Example</string>
+    <string name="t">Enter City Name</string>
+    <string name="but1">WEATHER DETAILS BY CITY</string>
+    <string name="but2">WEATHER DETAILS BY LOCATION</string>
+    <string name="tv" />
+</resources>
